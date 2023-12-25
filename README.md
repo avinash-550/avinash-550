@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Avinash</h1>
+<div align="center">
 
-<!--
-**avinash-550/avinash-550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![image](https://img.shields.io/badge/LinkedIn-080908?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash550/)
+[![image](https://img.shields.io/badge/Gmail-080908?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinash.getmail@gmail.com)
+[![image](https://img.shields.io/badge/Medium-080908?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@avinash550)
 
-Here are some ideas to get you started:
+</div>
+<div align="center">
+<h3 align="center">Software Engineer And Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🔭 I'm currently working on **Spring boot projects, Algorithms and Tech blogs**.
+
+ 🌱 I’m currently learning **Spring MVC, Spring cloud and thymeleaf.**
+
+ 👯 I’m looking to collaborate on **Back-End projects**
+
+ 📫 How to reach me: **avinash.getmail@gmail.com**
+
+⚡ What I like to do: **I like to play chess, watch F1, play guitar...and yes code!!**
+
+</div>
