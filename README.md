@@ -11,7 +11,7 @@
 
  🔭 I'm currently working on **Spring boot projects, Algorithms and Tech blogs**.
 
- 🌱 I’m currently learning **Spring MVC, Spring cloud and thymeleaf.**
+ 🌱 I’m currently learning **Spring Framework.**
 
  👯 I’m looking to collaborate on **Back-End projects**
 
