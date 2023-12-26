@@ -9,9 +9,9 @@
 <div align="center">
 <h3 align="center">Software Engineer And Tech Enthusiast</h3>
 
- 🔭 I'm currently working on **Spring boot projects, Algorithms and Tech blogs**.
+ 🔭 I'm currently working on **Spring boot projects, Algorithms and Tech blogs**
 
- 🌱 I’m currently learning **Spring Framework.**
+ 🌱 I’m currently learning **Spring Framework**
 
  👯 I’m looking to collaborate on **Back-End projects**
 
