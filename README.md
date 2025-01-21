@@ -11,9 +11,9 @@
 
  🔭 I'm currently working on **Spring boot projects, DS Algo and Tech blogs**
 
- 🌱 I’m currently learning **Spring Framework**
+ 🌱 I’m currently learning **AI engineering and AWS**
 
- 👯 I’m looking to collaborate on **Back-End projects**
+ 👯 I’m looking to collaborate on **Back-End and AI projects**
 
  📫 How to reach me: **avinash.getmail@gmail.com**
 
